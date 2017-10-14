@@ -1,13 +1,8 @@
 {
-  "name": "Test",
-  "description": "Test",
-  "version": "0.0.0",
-  "main": "bot.js",
-  "scripts": {
-     "starts": "node bot.js"
-  },
-  "dependencies": {
-    "discord.js": "11.1.0",
-    "request": 8.7.0"
+  "name": "USMCBOT",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.7.0"
   }
- }
+}
